@@ -1,6 +1,3 @@
-MLCreator
-====
-
 ![Screenshot](doc/screenshot.png)
 
 Simple web frontend to create new mailing-lists on a mailman instance.
@@ -17,7 +14,7 @@ Download and run mlcreator:
     cd mlcreator
     bundle install                  # To install gems
     
-    cp config/config.yml.sample config/config.yml # Edit your configuration before running the tool
+    cp config/config.yml.sample config/config.yml # Edit your configuration before running
     
     bundle exec ruby app.rb         # To run the tool
 	
