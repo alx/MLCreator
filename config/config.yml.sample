@@ -1,0 +1,5 @@
+domain: 'mailman.install.tld'
+mailman_path: '/usr/lib/mailman'
+main_ml: 'main_list' # retrieve user list from this mailing-list
+admin_email: 'admin@email.tld'
+admin_password: 'admin_password'
